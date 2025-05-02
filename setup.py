@@ -18,7 +18,7 @@ setuptools.setup(
     # Имя автора.
     author="SnayperTihCreator",
     # Его почта.
-    author_email="ericjaychi@gmail.com",
+    author_email="snajpertih@gmail.com",
     # Краткое описание, которое будет показано на странице PyPi.
     description="A Hello World package",
     # Длинное описание, которое будет отображаться на странице PyPi. Использует README.md репозитория для заполнения.
